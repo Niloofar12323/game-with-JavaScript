@@ -1,0 +1,16 @@
+{
+  "name": "labyrinth-of-lies",
+  "version": "1.0.0",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "*Labyrinth of Lies* is a text-based adventure game where you navigate through a dark maze filled with puzzles, dangerous encounters, and a hidden traitor.   **Objective**: Successfully traverse the labyrinth and uncover the mafia member among your companions.",
+  "dependencies": {
+    "init": "^0.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
